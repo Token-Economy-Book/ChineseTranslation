@@ -7,7 +7,7 @@ http://token.kitchen<br>
 Design: Justyna Zubrycka <br>
 Production: Caroline Helbing<br>
 Copy edit: Paisley Prophet<br>
-Chinese Translation: Joanne Long, YY, Typto, Turbo
+Chinese Translation: Joanne, YY, Typto, Turbo, Ruby, Raphina
 
 # Other languages
 https://github.com/Token-Economy-Book/
